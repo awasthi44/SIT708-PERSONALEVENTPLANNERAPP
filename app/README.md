@@ -95,7 +95,7 @@ com.example.personaleventplanner
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   https://github.com/awasthi44/SIT708-PERSONALEVENTPLANNERAPP
 2. Open the project in Android Studio
 3. Sync Gradle dependencies
 4. Run the app on:
@@ -114,11 +114,11 @@ com.example.personaleventplanner
 
 🎥 Demonstration
 
-👉 [Add your YouTube video link here]
+👉 https://deakin.au.panopto.com/Panopto/Pages/Viewer.aspx?id=e547be50-a272-4185-af22-b42e001d74ef
 
 🔗 GitHub Repository
 
-👉 [Add your GitHub repo link here]
+👉 https://github.com/awasthi44/SIT708-PERSONALEVENTPLANNERAPP
 
 🤖 LLM Usage Declaration
 
